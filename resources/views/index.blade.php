@@ -5,7 +5,7 @@ a<!DOCTYPE html>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Restaurantly Bootstrap Template - Index</title>
+  <title>4ZFoods</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,17 +42,6 @@ a<!DOCTYPE html>
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-center justify-content-md-between">
 
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
-        <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 11AM - 23PM</span></i>
-      </div>
-
-      <div class="languages d-none d-md-flex align-items-center">
-        <ul>
-          <li>En</li>
-          <li><a href="#">De</a></li>
-        </ul>
-      </div>
     </div>
   </div>
 
@@ -68,7 +57,7 @@ a<!DOCTYPE html>
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#menu">Menu</a></li>
+          <li><a class="nav-link scrollto" href="#news">News</a></li>
           <li><a class="nav-link scrollto" href="#specials">Specials</a></li>
           <li><a class="nav-link scrollto" href="#events">Events</a></li>
           <li><a class="nav-link scrollto" href="#chefs">Chefs</a></li>
@@ -88,7 +77,7 @@ a<!DOCTYPE html>
       <div class="row">
         <div class="col-lg-8">
           <h1>Welcome to <span>4ZFoods</span></h1>
-          <h2>Delivering great food for more than 18 years!</h2>
+          <h2>Hold your breath for breathtaking freshness!!</h2>
 
           <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
@@ -96,7 +85,7 @@ a<!DOCTYPE html>
           </div>
         </div>
         <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
-          <a href="https://www.youtube.com/watch?v=6jyxHQXHHaQ" class="glightbox play-btn"></a>
+          <a href="https://www.youtube.com/watch?v=D1Mzl77b5Ms" class="glightbox play-btn"></a>
         </div>
 
       </div>
@@ -116,20 +105,17 @@ a<!DOCTYPE html>
             </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>WHY CHOOSE US?.</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            We adhere to a set of values that are founded Honesty, Integrity, and Transparency in all of our interaction with stakeholders. We prioritized meeting the needs of our clients and never skimp on product quality by adding value to all we do. We want to change the world we enjoy challenges and strive for perfection by going outside our comfort zone.
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check-circle"></i> We always serve the best seafood for our costumers.</li>
+              <li><i class="bi bi-check-circle"></i> and also we serve a fresh fish.</li>
+              <li><i class="bi bi-check-circle"></i> We always get a good feedback in our costumers.</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            The protein content of seafood is superior to that of meat and poultry and is a good source of high-quality protein. Furthermore, it contains a variety of vital nutrients that your body requires every day to operate properly. We truly could go on and on about the incredible advantages that seafood possesses
             </p>
           </div>
         </div>
@@ -143,7 +129,7 @@ a<!DOCTYPE html>
 
         <div class="section-title">
           <h2>Why Us</h2>
-          <p>Why Choose Our Restaurant</p>
+          <p>Why Choose the 4ZFood</p>
         </div>
 
         <div class="row">
@@ -151,24 +137,24 @@ a<!DOCTYPE html>
           <div class="col-lg-4">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
               <span>01</span>
-              <h4>Lorem Ipsum</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <h4>Lesley</h4>
+              <p>Great for getting your fried food fix every now and then. The service is quick and portions are plentiful. A large order of the popcorn shrimp platter is more than enough for two people and the shrimp are always cooked so they 'pop' in your mouth, never chewy. I tried the fried oysters and flounder yesterday, awesome. The large tables require you to sit with others, which allows you to meet new people. My family and I always enjoy the experience here.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="zoom-in" data-aos-delay="200">
               <span>02</span>
-              <h4>Repellat Nihil</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <h4>Pharsa</h4>
+              <p>Above avaerage seafood, scollops are a moist and crunchy A+. Atmosphere not the best but lets you experiance something new. GENEROUS PORTIONS, glad i ran out of food to eat! Its very nice to have a good meal and take a stroll through the market and buy fresh and local things! Very busy all the time there were no more tables and a line out the door, but they do a good job of keeping up. Very nice, solid 4 stars.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="zoom-in" data-aos-delay="300">
               <span>03</span>
-              <h4> Ad ad velit qui</h4>
-              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+              <h4> Odette</h4>
+              <p>Always great food and service! Great place to stop for a meal but get there early. There is a line at the door on the weekend. Love the jumbo shrimp, catfish and clam strips. Hush puppies are the best around!!!!!!</p>
             </div>
           </div>
 
@@ -176,123 +162,6 @@ a<!DOCTYPE html>
 
       </div>
     </section><!-- End Why Us Section -->
-
-    <!-- ======= Menu Section ======= -->
-    <section id="menu" class="menu section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Menu</h2>
-          <p>Check Our Tasty Menu</p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="menu-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-starters">Starters</li>
-              <li data-filter=".filter-salads">Salads</li>
-              <li data-filter=".filter-specialty">Specialty</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="col-lg-6 menu-item filter-starters">
-            <img src="assets/img/menu/lobster-bisque.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Lobster Bisque</a><span>$5.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Lorem, deren, trataro, filede, nerada
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-specialty">
-            <img src="assets/img/menu/bread-barrel.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Bread Barrel</a><span>$6.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Lorem, deren, trataro, filede, nerada
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-starters">
-            <img src="assets/img/menu/cake.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Crab Cake</a><span>$7.95</span>
-            </div>
-            <div class="menu-ingredients">
-              A delicate crab cake served on a toasted roll with lettuce and tartar sauce
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-salads">
-            <img src="assets/img/menu/caesar.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Caesar Selections</a><span>$8.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Lorem, deren, trataro, filede, nerada
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-specialty">
-            <img src="assets/img/menu/tuscan-grilled.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Tuscan Grilled</a><span>$9.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-starters">
-            <img src="assets/img/menu/mozzarella.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Mozzarella Stick</a><span>$4.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Lorem, deren, trataro, filede, nerada
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-salads">
-            <img src="assets/img/menu/greek-salad.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Greek Salad</a><span>$9.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Fresh spinach, crisp romaine, tomatoes, and Greek olives
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-salads">
-            <img src="assets/img/menu/spinach-salad.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Spinach Salad</a><span>$9.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Fresh spinach with mushrooms, hard boiled egg, and warm bacon vinaigrette
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-specialty">
-            <img src="assets/img/menu/lobster-roll.jpg" class="menu-img" alt="">
-            <div class="menu-content">
-              <a href="#">Lobster Roll</a><span>$12.95</span>
-            </div>
-            <div class="menu-ingredients">
-              Plump lobster meat, mayo and crisp lettuce on a toasted bulky roll
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Menu Section -->
 
     <!-- ======= Specials Section ======= -->
     <section id="specials" class="specials">
@@ -307,19 +176,19 @@ a<!DOCTYPE html>
           <div class="col-lg-3">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
-                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Modi sit est</a>
+                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Lobster</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Unde praesentium sed</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Milk fish </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Pariatur explicabo vel</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Salmon</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Nostrum qui quasi</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Crabs</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Iusto ut expedita aut</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">American Lobster</a>
               </li>
             </ul>
           </div>
@@ -328,60 +197,60 @@ a<!DOCTYPE html>
               <div class="tab-pane active show" id="tab-1">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Architecto ut aperiam autem id</h3>
-                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                    <h3>Buttered Lobster</h3>
+                    <p class="fst-italic">In recent years, the lobster industry has faced challenges from declining populations and changing consumer preferences.</p>
+                    <p>Lobster is a saltwater crustacean that is considered a delicacy in many cultures. There are several species of lobster, but the two most common are the American lobster and the European lobster.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-1.png" alt="" class="img-fluid">
+                    <img src="assets/img/spe-1.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-2">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Et blanditiis nemo veritatis excepturi</h3>
-                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                    <h3>Sinugba na bangus </h3>
+                    <p class="fst-italic">Milkfish are characterized by their silver-grey color and distinctive milk-like substance that is produced by the male during breeding season. They are highly valued for their tender, flaky flesh and mild flavor, and are commonly consumed steamed, grilled, fried, or made into soups and stews.</p>
+                    <p>Milkfish is a species of fish found in the shallow waters of the Indo-Pacific region. It is one of the most important aquaculture species in Southeast Asia, and is widely consumed in countries such as the Philippines, Indonesia, and Taiwan.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-2.png" alt="" class="img-fluid">
+                    <img src="assets/img/spe-2.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-3">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
-                    <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
-                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
+                    <h3>Salmon</h3>
+                    <p class="fst-italic">Farmed salmon has become a major industry in recent years, with millions of tons produced annually to meet growing global demand. However, there are concerns about the environmental impact of salmon farming, including pollution, disease, and the escape of farmed salmon into wild populations.</p>
+                    <p>Salmon is known for its rich, pink flesh that is high in protein and low in fat. It is a popular ingredient in many dishes and can be cooked in a variety of ways, including grilling, baking, smoking, and sautéing.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-3.png" alt="" class="img-fluid">
+                    <img src="assets/img/spe-3.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-4">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
-                    <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
-                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
+                    <h3>Chilli Crab</h3>
+                    <p class="fst-italic">Crabs are a popular food item and are consumed worldwide, with species like the blue crab, Dungeness crab, and king crab being highly sought after. They can be enjoyed steamed, boiled, fried, or in salads and stews. The meat from crab legs is often considered a delicacy, and the roe, or egg sack, is also highly prized in some cultures.</p>
+                    <p> In recent years, the crab industry has faced challenges from declining populations, overfishing, and concerns about sustainability.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-4.png" alt="" class="img-fluid">
+                    <img src="assets/img/spe-4.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-5">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
-                    <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                    <h3>American Lobster</h3>
+                    <p class="fst-italic">Lobsters have a hard exoskeleton and can grow to be quite large, with some individuals reaching over three feet in length and weighing more than 20 pounds. They are omnivores, eating both plants and animals, and are typically caught using lobster traps..</p>
+                    <p>Despite these challenges, lobster remains a popular food and a symbol of luxury and celebration. Whether enjoyed on its own or used as a key ingredient in a variety of dishes, this beloved crustacean continues to be enjoyed by seafood lovers around the world.Despite these challenges, lobster remains a popular food and a symbol of luxury and celebration. Whether enjoyed on its own or used as a key ingredient in a variety of dishes, this beloved crustacean continues to be enjoyed by seafood lovers around the world.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-5.png" alt="" class="img-fluid">
+                    <img src="assets/img/spe-5.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -390,7 +259,7 @@ a<!DOCTYPE html>
         </div>
 
       </div>
-    </section><!-- End Specials Section -->
+    </section><!-- End spe Section -->
 
     <!-- ======= Events Section ======= -->
     <section id="events" class="events">
@@ -398,7 +267,7 @@ a<!DOCTYPE html>
 
         <div class="section-title">
           <h2>Events</h2>
-          <p>Organize Your Events in our Restaurant</p>
+          <p>Organize Your Events in our 4ZFood/ Restaurant</p>
         </div>
 
         <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -410,22 +279,21 @@ a<!DOCTYPE html>
                   <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h3>Birthday Parties</h3>
+                  <h3>Birthday Party</h3>
                   <div class="price">
-                    <p><span>$189</span></p>
+                    <p><span>Php 10,000.00</span></p>
                   </div>
                   <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                  “Cocktail parties are so much more fun when you’re drinking.” – George Carlin.
                   </p>
                   <ul>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                    <li><i class="bi bi-check-circled"></i> Fiesta Theme Party.</li>
+                    <li><i class="bi bi-check-circled"></i> Hollywood Theme Party</li>
+                    <li><i class="bi bi-check-circled"></i> Unicorn Theme Birthday Party.</li>
                   </ul>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur
+                  We prepare exciting Kid's Birthday Party Packages that you can enjoy with your family ... After which the 50% balance will be settled right after the party.
+
                   </p>
                 </div>
               </div>
@@ -439,20 +307,18 @@ a<!DOCTYPE html>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                   <h3>Private Parties</h3>
                   <div class="price">
-                    <p><span>$290</span></p>
+                    <p><span>Php 15,000.00</span></p>
                   </div>
                   <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                  All event enquiries and bookings should be made directly with the Events Manager, Merlyn.
                   </p>
                   <ul>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                    <li><i class="bi bi-check-circled"></i> Unlimited Seafoods.</li>
+                    <li><i class="bi bi-check-circled"></i> Decorating the venue.</li>
+                    <li><i class="bi bi-check-circled"></i> Free entrance fee for Seniors.</li>
                   </ul>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur
+                    What are you waiting for just book and preserve now!
                   </p>
                 </div>
               </div>
@@ -464,22 +330,20 @@ a<!DOCTYPE html>
                   <img src="assets/img/event-custom.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h3>Custom Parties</h3>
+                  <h3>Christian World</h3>
                   <div class="price">
-                    <p><span>$99</span></p>
+                    <p><span>Phpo 5,800.00</span></p>
                   </div>
                   <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                  May you be always blessed and loved.: Gift to welcome new member to Christianity in the Church, Neighbor, friend
                   </p>
                   <ul>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                    <li><i class="bi bi-check-circled"></i> Free decorating the venue.</li>
+                    <li><i class="bi bi-check-circled"></i> Free flowers.</li>
+                    <li><i class="bi bi-check-circled"></i> Unlimited Seafoods.</li>
                   </ul>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur
+                    What are you waiting for just book and preserve now!
                   </p>
                 </div>
               </div>
@@ -559,11 +423,11 @@ a<!DOCTYPE html>
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  The chefs cook it - your seafood choices - the way you like it! And you choose from the freshest seafood on the market vendors next door (see the picture below). Fresh and with a wide selection. 
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
+                <h3>Kim Taeyhung</h3>
                 <h4>Ceo &amp; Founder</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -572,11 +436,12 @@ a<!DOCTYPE html>
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  We were a group of sixteen with children under 4 when we ate here on a rainy saturday night. There was an empty parking space right in front of the restaurant. We requested the parking attendant nicely if we could use the spot. He insisted it was for their owner
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <h3>Kim Seokjin</h3>
                 <h4>Designer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -585,11 +450,12 @@ a<!DOCTYPE html>
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  It was my very first time at Dampa and I must say i was floored by the experience. Me and my friends first landed at the fish market to buy the seafood. Crabs, shrimps, squid, pampano...you name it. The market was clean and the fishmongers were spirited, maming the experience worth remembering.
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
+                <h3>Jeon Jungkok</h3>
                 <h4>Store Owner</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -598,7 +464,11 @@ a<!DOCTYPE html>
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  the first time we ended up at this place because of an advice of a taxi driver. My taste senses could never like other seafood restaurants in Manila! Absolutly GREAT cooked food! my personal recommendation:
+
+#1 Szechuan Shripms and
+#2 salt & pepper calamari !!
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
@@ -611,11 +481,14 @@ a<!DOCTYPE html>
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  So if you really enjoy bonding over food, Royal Kitchen in the Dampa area in Manila is a 'must go'! Soak in the experience of Dampa and laugh and cheer over superb seafood preparations.
+
+PS: Service was great...two thumbs up to our serving partners. Although if you visit during lunch hour over the weekend, you should expect some delays
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <h3>Park Jimin</h3>
                 <h4>Entrepreneur</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -726,7 +599,7 @@ a<!DOCTYPE html>
               <img src="assets/img/chefs/chefs-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
+                  <h4>Kim Namjoon</h4>
                   <span>Master Chef</span>
                 </div>
                 <div class="social">
@@ -744,7 +617,7 @@ a<!DOCTYPE html>
               <img src="assets/img/chefs/chefs-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
+                  <h4>Hong seok</h4>
                   <span>Patissier</span>
                 </div>
                 <div class="social">
@@ -791,7 +664,7 @@ a<!DOCTYPE html>
       </div>
 
       <div data-aos="fade-up">
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.3083587697497!2d125.53596071429628!3d8.943706692782772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3301c1cd34016e87%3A0xce03cb72862e6b04!2s4Z%20Food%20Products!5e0!3m2!1sen!2sph!4v1672839517752!5m2!1sen!2sph" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container" data-aos="fade-up">
@@ -803,7 +676,7 @@ a<!DOCTYPE html>
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>012 Pizarro St., across Timberlanes Bowling Center , Butuan City, Philippines</p>
               </div>
 
               <div class="open-hours">
@@ -873,12 +746,13 @@ a<!DOCTYPE html>
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Restaurantly</h3>
+              <h3>4ZFood / Restaurant</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+              012 Pizarro St., across Timberlanes Bowling Center , Butuan City, Philippines<br><br>
+                <strong>Phone:</strong> 
+0917 894 5071<br>
+                <strong>Email:</strong> 
+aandzfood@yahoo.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -914,7 +788,7 @@ a<!DOCTYPE html>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>Please subscribed to our Facebook page and YouTube  Channel!!</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -927,14 +801,14 @@ a<!DOCTYPE html>
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Restaurantly</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>4ZFood/Restaurant</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">MERLYN R. LAXAMANA AND EMIELOU ALVERO</a>
       </div>
     </div>
   </footer><!-- End Footer -->
